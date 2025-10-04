@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D  # Необходимо для 3D графика
+from mpl_toolkits.mplot3d import Axes3D
 
 x = np.linspace(-5, 5, 100)
 y = np.linspace(-5, 5, 100)
@@ -12,3 +12,4 @@ ax = fig.add_subplot(111, projection='3d')
 ax.plot_surface(X, Y, Z, cmap='viridis')
 
 plt.show()
+
