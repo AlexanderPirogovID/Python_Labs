@@ -1,0 +1,30 @@
+2026-03-30 01:52:21,376 - WARNING - Ошибка парсинга JSON bad_format.json: Expecting value: line 1 column 1 (char 0)
+2026-03-30 01:52:21,377 - WARNING - [bad_logic.json] id t4: 'amount' <= 0.
+2026-03-30 01:52:21,378 - INFO - Успешно: duplicate.json
+2026-03-30 01:52:21,379 - WARNING - [good1.json] Дубликат транзакции с id: t1.
+2026-03-30 01:52:21,379 - INFO - Успешно: good2.csv
+2026-03-30 01:52:21,381 - INFO - Результаты сохранены в result.json
+2026-03-30 10:06:22,800 - WARNING - Ошибка парсинга JSON bad_format.json: Expecting value: line 1 column 1 (char 0)
+2026-03-30 10:06:22,820 - WARNING - [bad_logic.json] id t4: 'amount' <= 0.
+2026-03-30 10:06:22,847 - INFO - Успешно: duplicate.json
+2026-03-30 10:06:22,873 - WARNING - [good1.json] Дубликат транзакции с id: t1.
+2026-03-30 10:06:22,897 - INFO - Успешно: good2.csv
+2026-03-30 10:06:22,904 - INFO - Результаты сохранены в result.json
+2026-04-13 09:30:37,914 - WARNING - Ошибка парсинга JSON bad_format.json: Expecting value: line 1 column 1 (char 0)
+2026-04-13 09:30:37,930 - WARNING - [bad_logic.json] id t4: 'amount' <= 0.
+2026-04-13 09:30:37,948 - INFO - Успешно: duplicate.json
+2026-04-13 09:30:37,965 - WARNING - [good1.json] Дубликат транзакции с id: t1.
+2026-04-13 09:30:37,983 - INFO - Успешно: good2.csv
+2026-04-13 09:30:37,987 - INFO - Результаты сохранены в result.json
+2026-04-13 09:35:08,711 - WARNING - Ошибка парсинга JSON bad_format.json: Expecting value: line 1 column 1 (char 0)
+2026-04-13 09:35:08,713 - WARNING - [bad_logic.json] id t4: 'amount' <= 0.
+2026-04-13 09:35:08,714 - INFO - Успешно: duplicate.json
+2026-04-13 09:35:08,714 - WARNING - [good1.json] Дубликат транзакции с id: t1.
+2026-04-13 09:35:08,715 - INFO - Успешно: good2.csv
+2026-04-13 09:35:08,719 - INFO - Результаты сохранены в result.json
+2026-05-11 09:24:49,297 - WARNING - Ошибка парсинга JSON bad_format.json: Expecting value: line 1 column 1 (char 0)
+2026-05-11 09:24:49,315 - WARNING - [bad_logic.json] t4: amount <= 0.
+2026-05-11 09:24:49,337 - INFO - Файл успешно обработан: duplicate.json
+2026-05-11 09:24:49,352 - WARNING - [good1.json] Дубликат ID: t1.
+2026-05-11 09:24:49,368 - INFO - Файл успешно обработан: good2.csv
+2026-05-11 09:24:49,372 - INFO - Результаты сохранены.
